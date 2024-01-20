@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">138934601399</string>
+    <string name="google_api_key" translatable="false">AIzaSyAoOWpNOg1xgxxDhGh1EW0x45zF8OQI0TU</string>
+    <string name="google_app_id" translatable="false">1:138934601399:android:2ae7f1afee41091b04af32</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAoOWpNOg1xgxxDhGh1EW0x45zF8OQI0TU</string>
+    <string name="google_storage_bucket" translatable="false">plannify-e46ea.appspot.com</string>
+    <string name="project_id" translatable="false">plannify-e46ea</string>
+</resources>
